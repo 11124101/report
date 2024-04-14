@@ -1,0 +1,9 @@
+s = [2, 5, 7, 1, 6]
+ 
+# 昇冪排列
+ls.sort()
+print("昇冪排列後的列表：", ls)
+ 
+# 降冪排列
+ls.sort(reverse=True)
+print("降冪排列後的列表：", ls)
